@@ -1,0 +1,13 @@
+This is a nice and colorized prompt for your bash<br />
+
+It displays :<br />
+- the user name
+- the working directory
+- the command number
+- the return value of the previously executed instruction
+- the name of the git branh if there is one
+
+
+This bashrc was partially created using the <a href="http://bashrcgenerator.com/">bashrc generator</a><br />
+It is also possible to get the basics <a href="https://ss64.com/bash/syntax-prompt.html">here</a><br />
+
