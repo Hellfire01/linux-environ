@@ -1,0 +1,3 @@
+gitg : interactive git visualising tool
+jq : intakes json and outputs it in a colorized and indented manner
+tree : lists the contents of directories in a tree like manner
