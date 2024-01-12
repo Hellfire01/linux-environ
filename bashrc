@@ -33,3 +33,6 @@ alias co="ping google.com"
 
 # swap emptying
 alias swap_reset="sudo swapoff -a; sudo swapon"
+
+# activate the venv
+alias va="source venv/bin/activate"
