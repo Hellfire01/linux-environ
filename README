@@ -1,15 +1,5 @@
-This is a nice and colorized prompt for your bash<br />
+## This repository contains a set of tools in order make creating a new work environ on linux faster and easier
 
-It displays :<br />
-- the user name
-- the working directory
-- the command number
-- the return value of the previously executed instruction
-- the name of the git branh if there is one
-
-This bashrc was partially created using the <a href="http://bashrcgenerator.com/">bashrc generator</a><br />
-It is also possible to get the basics <a href="https://ss64.com/bash/syntax-prompt.html">here</a><br />
-
-Output exemple :</br>
-[matthieu - ~/travail_perso/RUBY/MangaScrap_github - 12 - 0 - master]$</br>
- => </br>
+Currently this repository contains the following :
+- a bashrc file that contains a nice PS1 ( the command line prompt ) and a few aliases
+- a tools.txt file containing useful tools to install
