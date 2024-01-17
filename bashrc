@@ -18,6 +18,12 @@ alias ls="ls --color"
 alias lsa="ls -lsah --color"
 alias lsah="ls -lsah --color"
 
+# directories related
+alias ".."="cd .."
+alias "..."="cd ../.."
+alias "...."="cd ../../.."
+alias "....."="cd ../../../.."
+
 # download & update
 # Determine the Linux distribution
 if grep -q "ID=arch" /etc/os-release; then
