@@ -1,4 +1,15 @@
+tools to install using apt ( or equivalent )
+
+curl : command line tool for urls
 gitg : interactive git visualising tool
 htop : an interactive process viewer
 jq : intakes json and outputs it in a colorized and indented manner
 tree : lists the contents of directories in a tree like manner
+
+
+tools to install using command lines
+
+helm ( template tool for kubernetes )
+curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+k3s ( light single node version of kubernetes )
+curl -sfL https://get.k3s.io | sh -
