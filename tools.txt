@@ -1,6 +1,8 @@
+The idea of this file is to go from a blank install of ubuntu ( or alternative ) and get a working dev environ with little effort
 tools to install using apt ( or equivalent )
 
 curl : command line tool for urls
+git : work versionning tool
 gitg : interactive git visualising tool
 htop : an interactive process viewer
 jq : intakes json and outputs it in a colorized and indented manner
