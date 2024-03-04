@@ -40,5 +40,9 @@ alias co="ping google.com"
 # swap emptying
 alias swap_reset="sudo swapoff -a; sudo swapon"
 
-# activate the venv
+# python related
 alias va="source venv/bin/activate"
+alias "pytest"="pytest --color=true"
+alias "pytestx"="pytest --color=true -x"
+alias "pytests"="pytest --color=true -s"
+alias "pytestsx"="pytest --color=true -s -x"
